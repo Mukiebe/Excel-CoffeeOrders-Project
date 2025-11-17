@@ -33,4 +33,5 @@ This project strengthened my Excel skills in data modeling, lookup functions, pi
 I'd really appreciate any feedback from the Excel and data community.
 Whether on my approach, formulas, or dashboard design. I'm always looking to improve and learn from others.
 
-#Excel #Dahsboard #Project
+<img width="574" height="292" alt="2025-11-18" src="https://github.com/user-attachments/assets/a0827b8a-f935-4e28-a53b-36f5ff9e4a5e" />
+
